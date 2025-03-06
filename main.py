@@ -1,4 +1,5 @@
 from utils import secti
+from utils import nasob
 
 def main():
     x = 5
@@ -8,3 +9,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+print(nasob(3, 4))
+
