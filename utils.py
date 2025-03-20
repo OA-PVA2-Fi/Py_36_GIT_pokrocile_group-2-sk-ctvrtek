@@ -24,4 +24,3 @@ def deleni(a,b):
 
 def obvod_obdelniku(a,b):
     return 2*(a+b)
-
