@@ -21,3 +21,8 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def obvod_trojulheniku (a,b,c):
+    return a + b + c
+
+print(obvod_trojulheniku(5,8,12))
