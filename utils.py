@@ -21,3 +21,6 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def obvod_ctverce(strana):
+    return 4 * strana
