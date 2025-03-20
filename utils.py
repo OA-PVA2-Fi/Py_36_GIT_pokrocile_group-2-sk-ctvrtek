@@ -11,7 +11,7 @@ def secti(a, b):
 # Příklad další funkce, kterou můžete procvičit při vytváření nové větve
 def odecti(a, b):
     """
-     Vrátí rozdíl dvou čísel.
+      Vrátí rozdíl dvou čísel.
 
     :param a: první číslo
     :param b: druhé číslo
