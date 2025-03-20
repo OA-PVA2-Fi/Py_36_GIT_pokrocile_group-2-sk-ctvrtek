@@ -22,5 +22,5 @@ def odecti(a, b):
 def deleni(a,b):
     return a / b
 
-def vynasob(a, Va):
+def nasobeni(a, Va):
     return a * Va
