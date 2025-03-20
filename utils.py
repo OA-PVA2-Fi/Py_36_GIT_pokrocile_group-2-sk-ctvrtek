@@ -21,3 +21,6 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def slichobezniku(a,c,v):
+    return ((a+c)*v)/2
