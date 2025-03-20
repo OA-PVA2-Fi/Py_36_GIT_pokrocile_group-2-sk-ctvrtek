@@ -8,3 +8,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+from utils import nasobeni
+a=15
+Va=7
+vysledek = nasobeni(a, Va)
+print(f"Výsledek násobení {a} a {Va} je: {vysledek}")
